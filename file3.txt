@@ -1,0 +1,5 @@
+Def fun2(){
+
+#logic
+
+}
